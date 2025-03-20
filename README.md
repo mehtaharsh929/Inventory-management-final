@@ -1,6 +1,6 @@
 # Inventory Management System
 
-An Inventory Management System developed using **NestJS**, **TypeORM**, and **PostgreSQL**. It supports data conversion features apart from **CSV** and **PDF** and uses **Swagger** for API documentation.
+An Inventory Management System developed using **NestJS**, **TypeORM**, and **PostgreSQL**.Uses **Swagger** for API documentation.
 
 ---
 
