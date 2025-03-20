@@ -32,10 +32,10 @@ An Inventory Management System developed using **NestJS**, **TypeORM**, and **Po
 git clone <repository-url>
 cd inventory-management-system
 
-## 2. Install dependencies:
+### 2. Install dependencies:
 yarn install
 
-## 3. Set up environment variables:
+### 3. Set up environment variables:
 Create a .env file in the root directory with the following configurations:
 PORT=3000
 DB_HOST=localhost
@@ -45,10 +45,10 @@ DB_PASSWORD=your_password
 DB_NAME=inventory_db
 JWT_SECRET=your_jwt_secret
 
-## 4. Database Setup:
+### 4. Database Setup:
 Ensure PostgreSQL is running and the database (inventory_db) is created.
 
-⚙️ Running the Application
+## ⚙️ Running the Application
 Development Mode:
   yarn start:dev
   
@@ -58,12 +58,12 @@ Production Mode:
 Swagger Documentation:
   Access http://localhost:3000/api for API documentation.
 
-🛡️ Authentication & Authorization
+## 🛡️ Authentication & Authorization
 
 JWT-based authentication.
 Role-based access control (Admin and User).
 
-🔧 Future Improvements
+## 🔧 Future Improvements
 
 Advanced data analytics for inventory.
 Enhanced error handling and validation.
