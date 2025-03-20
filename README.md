@@ -66,8 +66,6 @@ Role-based access control (Admin and User).
 🔧 Future Improvements
 Advanced data analytics for inventory.
 Enhanced error handling and validation.
-Migration setup for production environments.
-📜 License
-This project is licensed under the MIT License.
+
 
 
