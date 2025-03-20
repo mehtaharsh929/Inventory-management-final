@@ -50,20 +50,21 @@ Ensure PostgreSQL is running and the database (inventory_db) is created.
 
 ⚙️ Running the Application
 Development Mode:
-
-yarn start:dev
+  yarn start:dev
+  
 Production Mode:
-
-yarn start:prod
+  yarn start:prod
+  
 Swagger Documentation:
-Access http://localhost:3000/api for API documentation.
+  Access http://localhost:3000/api for API documentation.
 
 🛡️ Authentication & Authorization
-JWT-based authentication.
 
+JWT-based authentication.
 Role-based access control (Admin and User).
 
 🔧 Future Improvements
+
 Advanced data analytics for inventory.
 Enhanced error handling and validation.
 
